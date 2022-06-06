@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{F4388CDE-864D-AC1C-61A8-48A19E566510}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/UI/LocationServiceStatusLabel.cs">
+    <Files>
+      <File FileName="Assets/Scipts/GpsLocation.cs" Line="36" Column="26" />
+      <File FileName="Assets/UI/SpeedLabel.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scipts/StartLocationServices.cs" Line="28" Column="9" />
+      <File FileName="Assets/Scipts/Speedometer.cs" Line="58" Column="37" />
+      <File FileName="Assets/UI/LocationServiceStatusLabel.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unity-Speedometer" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scipts" expanded="True" />
+              <Node name="UI" expanded="True">
+                <Node name="LocationServiceStatusLabel.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dfd36ca0-5095-47f0-93ec-2c4b32670160" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
